@@ -28,6 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Old Man in the Corner</dc:title>
 		<meta property="file-as" refines="#title">Old Man in the Corner, The</meta>
+		<meta property="dcterms:alternative" refines="#title">The Man in the Corner</meta>
 		<dc:subject id="subject-1">Detective and mystery stories, English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037269</meta>
@@ -35,7 +36,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An elderly man explains to a woman reporter how he solved several crimes that have stumped the local police.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A woman reporter meets elderly old man in a teahouse. He has an interest in the sensational local crimes that have left the police baffled. Over a series of short stories gathered together in this volume, the old man explains his methods, based primarily on newspaper accounts, crime scene visits, courtroom obervation and logical deduction&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Old Man in the Corner&lt;/i&gt;, published in the US as &lt;i&gt;The Man in the Corner&lt;/i&gt; is a collection of shorts stories gathered into one volume. On a number of occasions, a woman reporter meets elderly old man in a tea-house. He has an interest in the sensational local crimes that have left the police baffled. Over the course of time, old man explains his methods, based primarily on reading newspaper accounts, crime scene visits, courtroom obervation and logical deduction.&lt;/p&gt;
 			&lt;p&gt;The old man frequently takes the side of the criminals and declines to report his findings to police, leading the reader to speculate about his past until the conclusion of the book.&lt;/p&gt;
 			&lt;p&gt;Some of these stories were adapted into radio dramas in 1998 and 2000.&lt;/p&gt;
 		</meta>
