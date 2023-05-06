@@ -46,8 +46,18 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-1 blockquote:first-of-type p{
+#chapter-1 blockquote:first-of-type{
 	border: 1px solid;
-	padding: 4em;
+	padding: 2em;
 	text-align: center;
+}
+
+#chapter-1 blockquote:first-of-type > header p:first-of-type{
+	font-weight: bold;
+	text-align: center;
+}
+
+#chapter-1 blockquote:first-of-type p{
+	margin-top: 2em;
+	text-align: initial;
 }
