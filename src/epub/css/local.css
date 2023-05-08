@@ -37,7 +37,7 @@ section[epub|type~="dedication"] > footer{
 
 footer{
 	margin-top: 1em;
-	text-align: initial;
+	text-align: right;
 }
 
 [epub|type~="z3998:sender"],
@@ -48,18 +48,17 @@ footer{
 
 #chapter-1 blockquote:first-of-type{
 	border: 1px solid;
+	margin: 1em auto;
+	max-width: 100%;
 	padding: 2em;
-	text-align: center;
+	width: 20em;
 }
 
-/* Beginning business card */
-#chapter-1 blockquote:first-of-type > header p:first-of-type{
+#chapter-1 blockquote:first-of-type p:first-of-type{
 	font-weight: bold;
 	text-align: center;
 }
 
-#chapter-1 blockquote:first-of-type p{
+#chapter-1 blockquote:first-of-type p + p{
 	margin-top: 2em;
-	text-align: initial;
 }
-/* End business card */
