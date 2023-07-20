@@ -34,6 +34,8 @@
 		<meta property="term" refines="#subject-1">sh85037269</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">An elderly man explains to a woman reporter how he solved crimes that stumped the local police.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Polly Burton, a journalist, sits at the same table as an old man over tea. He has an interest in the sensational local crimes that have left the police baffled. Over the course her visit, the old man explains his crime-solving methods, which are based primarily on reading newspaper accounts, crime scene visits, courtroom obervation, and logical deduction. He frequently takes the side of the criminals and declines to report his findings to police, leading the reader to speculate about his past.&lt;/p&gt;
