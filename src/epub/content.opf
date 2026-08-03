@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/baroness-orczy/the-old-man-in-the-corner</dc:identifier>
 		<dc:date>2023-05-08T16:34:50Z</dc:date>
@@ -38,11 +38,11 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">An elderly man explains to a woman reporter how he solved crimes that stumped the local police.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An elderly man explains to a woman reporter how he solved crimes that stumped the local police.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Polly Burton, a journalist, sits at the same table as an old man over tea. He has an interest in the sensational local crimes that have left the police baffled. Over the course her visit, the old man explains his crime-solving methods, which are based primarily on reading newspaper accounts, crime scene visits, courtroom observation, and logical deduction. He frequently takes the side of the criminals and declines to report his findings to police, leading the reader to speculate about his past.&lt;/p&gt;
 			&lt;p&gt;The novel was published in the U.S. as &lt;i&gt;The Man in the Corner&lt;/i&gt;, and is based on short stories previously serialized in magazines.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10556</dc:source>
 		<dc:source>https://archive.org/details/thdoldmanincorne00orcz</dc:source>
